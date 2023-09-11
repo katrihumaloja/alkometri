@@ -1,0 +1,12 @@
+#container {
+  margin: 56px;
+}
+
+#container div {
+  margin-bottom: 16px;
+}
+
+label {
+  width: 80px;
+  display: inline-block;
+}
